@@ -33,3 +33,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Repo template generated ###
+.templatesave
+repo_templating
+test.txt
